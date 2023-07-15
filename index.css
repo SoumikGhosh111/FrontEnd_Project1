@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@100&display=swap');
+.nav-bar{ 
+    color: white;
+    background-color: black;
+    padding: 2px; 
+    border: 0px;
+    margin: 0px; 
+}
+
+ #button{ 
+   border:none;
+   background-color: black;
+   color: white;
+   padding: 15px;
+   /* padding-left: 5px; */
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+}
+.table{ 
+    border-collapse: collapse;
+    margin: 25px, 0px;
+    font-size: 0.9em;
+    /* min-width: 400px; */
+   width: 1200px;
+    text-align: center;
+}
+.table thead tr{ 
+    /* text-align:  left; */
+    border-left: 1px solid #000000dd;
+    border-top: 1px solid #000000dd;
+    border-right: 1px solid #000000dd;
+    border-bottom: 1px solid #000000dd;
+    /* border-right: 1px solid #dddddddd; */
+}
+.table thead{ 
+    border-left: 1px solid #000000dd;
+    border-right: 1px solid #000000dd;
+}
+ .table td{ 
+    border-left: 1px solid #000000dd;
+    border-right: 1px solid #000000dd;
+ }
+    
+.table td
+.table th{ 
+    padding: 12px 15px; 
+    border-right: 1px solid #000000dd;
+}
+.table td{ 
+    padding:25px; 
+}
+/* .table tbody tr{ 
+    border-bottom: 1px solid #dddddddd;
+} */
+
